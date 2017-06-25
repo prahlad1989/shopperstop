@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discountRates>
+    <DiscountRate>
+        <lowerAmount>0</lowerAmount>
+        <highterAmount>5000</highterAmount>
+        <percentage>10</percentage>
+    </DiscountRate>
+    <DiscountRate>
+       <lowerAmount>5001</lowerAmount>
+        <highterAmount>10000</highterAmount>
+        <percentage>20</percentage>
+    </DiscountRate>
+    <DiscountRate>
+      <lowerAmount>10000</lowerAmount>
+        <highterAmount>0</highterAmount>
+        <percentage>30</percentage>
+    </DiscountRate>
+</discountRates>
