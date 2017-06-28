@@ -7,7 +7,6 @@ public class BillCalculator {
 	public void setStrategy(IBillCalculationStrategy strategy) {
 		this.strategy = strategy;
 		
-		
 	
 	}
 	
